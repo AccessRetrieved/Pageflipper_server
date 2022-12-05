@@ -1,0 +1,49 @@
+[*] (2022/7/30[1:57:54]) - Flipper has started
+[i] (2022/7/30[1:58:6]) | 192.168.1.99 (jTARjGdVhs_kVtFnAAAB) - Is connected
+[i] (2022/7/30[1:58:8]) | 192.168.1.99 (26utf97p4-P-_PiDAAAD) - Is connected
+[*] (2022/7/30[1:58:55]) - Flipper has started
+[i] (2022/7/30[1:59:16]) | 192.168.1.99 (yMMWx1ncx3khsPq5AAAC) - Is connected
+[i] (2022/7/30[1:59:16]) | 192.168.1.99 (_BhoVxwpbwXxMwCyAAAD) - Is connected
+[i] (2022/7/30[1:59:43]) | 192.168.1.99 (yMMWx1ncx3khsPq5AAAC) - Is disconnected
+[i] (2022/7/30[1:59:43]) | 192.168.1.99 (_BhoVxwpbwXxMwCyAAAD) - Is disconnected
+[i] (2022/7/30[1:59:57]) | 192.168.1.99 (YH2pXCASYagu8VZKAAAG) - Is connected
+[i] (2022/7/30[1:59:57]) | 192.168.1.99 (X5STfedvVyffbqcrAAAH) - Is connected
+[i] (2022/7/30[2:0:27]) | 192.168.1.99 (YH2pXCASYagu8VZKAAAG) - Is disconnected
+[i] (2022/7/30[2:0:27]) | 192.168.1.99 (X5STfedvVyffbqcrAAAH) - Is disconnected
+[*] (2022/7/30[11:27:5]) - Flipper has started
+[i] (2022/7/30[11:28:33]) | 192.168.1.99 (_GqWuovGYP3NpZNIAAAB) - Is connected
+[i] (2022/7/30[11:28:40]) | 192.168.1.99 (zmmadlEEIu_u8O57AAAD) - Is connected
+[i] (2022/7/30[11:32:0]) | 192.168.1.99 (zmmadlEEIu_u8O57AAAD) - Is disconnected
+[i] (2022/7/30[11:32:0]) | 192.168.1.99 (_GqWuovGYP3NpZNIAAAB) - Is disconnected
+[i] (2022/7/30[11:32:6]) | 192.168.1.99 (Gxx4me5_PeK4I09cAAAG) - Is connected
+[i] (2022/7/30[11:32:6]) | 192.168.1.99 (ZRjzNyOCXJim7-ImAAAH) - Is connected
+[*] (2022/7/30[11:35:38]) - Flipper has started
+[i] (2022/7/30[11:36:9]) | 192.168.1.99 (UyYNrwgif7GZdHkcAAAC) - Is connected
+[i] (2022/7/30[11:36:9]) | 192.168.1.99 (ki9iLWN4jSAADyOlAAAD) - Is connected
+[*] (2022/7/30[11:45:39]) - Flipper has started
+[i] (2022/7/30[11:46:13]) | 192.168.1.99 (_1YHu8_mmLlcnqYpAAAB) - Is connected
+[i] (2022/7/30[11:46:14]) | 192.168.1.99 (NE6y86T15U6FFqNPAAAD) - Is connected
+[*] (2022/7/30[11:49:46]) - Flipper has started
+[*] (2022/7/30[11:50:23]) - Flipper has started
+[i] (2022/7/30[11:50:41]) | 192.168.1.99 (_-WW8pubada6RARzAAAC) - Is connected
+[i] (2022/7/30[11:50:41]) | 192.168.1.99 (LYHkxUU5IGIrW8bDAAAD) - Is connected
+[i] (2022/7/30[11:51:0]) | 192.168.1.99 (LYHkxUU5IGIrW8bDAAAD) - Is disconnected
+[i] (2022/7/30[11:51:0]) | 192.168.1.99 (_-WW8pubada6RARzAAAC) - Is disconnected
+[i] (2022/7/30[11:51:21]) | 192.168.1.99 (a2DoZ9EAdLo2JM0nAAAF) - Is connected
+[i] (2022/7/30[11:51:26]) | 192.168.1.99 (KTBA9LtZo3GVuK5LAAAH) - Is connected
+[i] (2022/7/30[11:51:37]) | 192.168.1.99 (a2DoZ9EAdLo2JM0nAAAF) - Is disconnected
+[i] (2022/7/30[11:51:37]) | 192.168.1.99 (KTBA9LtZo3GVuK5LAAAH) - Is disconnected
+[i] (2022/7/30[11:51:47]) | 192.168.1.99 (2K0tY6YIA-uLW5yqAAAJ) - Is connected
+[i] (2022/7/30[11:51:49]) | 192.168.1.99 (3HMSN6NCUd3JViSJAAAL) - Is connected
+[i] (2022/7/30[11:51:54]) | 192.168.1.99 (3HMSN6NCUd3JViSJAAAL) - Is disconnected
+[i] (2022/7/30[11:51:54]) | 192.168.1.99 (2K0tY6YIA-uLW5yqAAAJ) - Is disconnected
+[*] (2022/7/30[11:59:56]) - Flipper has started
+[i] (2022/7/30[12:0:25]) | 192.168.1.99 (PIzWlnnEtEP7riSRAAAB) - Is connected
+[i] (2022/7/30[12:0:27]) | 192.168.1.99 (KdK7IIm2iVa6yMQIAAAD) - Is connected
+[i] (2022/7/30[12:7:1]) | 192.168.1.99 (PIzWlnnEtEP7riSRAAAB) - Is disconnected
+[i] (2022/7/30[12:7:4]) | 192.168.1.99 (KdK7IIm2iVa6yMQIAAAD) - Is disconnected
+[i] (2022/7/30[12:8:12]) | 192.168.1.102 (zekc5BlWm6hibci2AAAG) - Is connected
+[i] (2022/7/30[12:8:12]) | 192.168.1.102 (lgekfImj00GyX74pAAAH) - Is connected
+[i] (2022/7/30[12:13:59]) | 192.168.1.102 (zekc5BlWm6hibci2AAAG) - Is disconnected
+[i] (2022/7/30[12:13:59]) | 192.168.1.102 (lgekfImj00GyX74pAAAH) - Is disconnected
+[*] (2022/7/30[12:14:37]) - Flipper has started
